@@ -1,0 +1,171 @@
+body {
+margin:0;
+text-align: center;
+background-color: #ffffff;
+padding: 0;
+
+
+}
+
+
+footer {
+    background-color: #1f2937;
+    color: #fff;
+    padding: 50px;
+    
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+
+
+
+}
+
+
+
+
+
+.folkpic img {
+    height:300px;
+    width: 500px;
+}
+
+.head {
+    display: flex;
+    color:#f9faf8;
+    background-color: #1f2937;
+    padding: 20px 0px 20px 100px;
+    align-items: center;
+
+
+
+}
+
+.headerlinks {
+    display:flex;
+    margin-left: auto;
+    padding: 0px 100px 0px 0px
+    
+}
+
+
+.headerlinks a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding:10px;
+
+}
+
+.kittypic img {
+    width:84px;
+    height: 84px;
+    margin-right: auto;
+}
+
+
+.websiteinfo {
+    display: flex;
+    color:#f9faf8;
+    background-color: #1f2937;
+    align-items: center;
+    justify-content: center;
+    padding: 90px;
+
+}
+
+
+.awesome {
+    flex-basis: 400px;
+    display:flex;
+    flex-direction: column;
+    text-align: left;
+    margin-right: 50px;
+
+}
+
+.awesome h3 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #f9faf8;
+    margin: 0;
+
+
+}
+
+.awesome button {
+    display: block;
+    text-align: center;
+    width:110px;
+    border: none;
+    background: blue;
+    padding: 10px;
+    border-radius: 8px;
+    color: #fff;
+    text-decoration: none;
+
+
+}
+
+.imageline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-wrap: nowrap;
+}
+
+.imageline img {
+    width: 200px;
+    height: 200px;
+    margin: 5px 20px 0px 15px;
+}
+
+
+.thor {
+    display:flex;
+    background-color: #e5e7eb;
+    color:#1f2937;
+    padding: 80px;
+    flex-direction: column;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    
+}
+
+.whosaidit {
+    font-size: 18px;
+    text-align: right;
+    padding-bottom: 20px;
+    padding-right: 10px;
+}
+
+.callofaction {
+    display: flex;
+    padding: 50px;
+    align-items: center;
+    background-color: #3882f6;
+    margin: 50px 200px;
+    border-radius: 5px;
+}
+
+.time {
+    color: white;
+    text-align: left;
+    flex: 1;
+
+}
+
+.button2 button {
+    border-radius: 5px;
+    background-color: #3882f6;
+    border-color: #ffffff;
+    color: #ffffff;
+    font-size: 30px;
+}
